@@ -1,5 +1,5 @@
 
-![](https://raw.githubusercontent.com/Styyx1/Apostasy---Allow-Death/main/images/Banner.png)
+![](https://raw.githubusercontent.com/Styyx1/Apostasy---Allow-Death/master/images/Banner.png)
 
 
 
