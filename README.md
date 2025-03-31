@@ -1,5 +1,5 @@
 
-![](https://raw.githubusercontent.com/Styyx1/Apostasy---Allow-Death/refs/heads/master/images/Banner.png)
+![]([https://raw.githubusercontent.com/Styyx1/Apostasy---Allow-Death/refs/heads/master/images/Banner.png](https://raw.githubusercontent.com/Styyx1/Apostasy---Allow-Death/refs/heads/master/images/Banner.png?token=GHSAT0AAAAAAC5Y5W3SII6WUY4SVYKKBIOOZ7LA56Q))
 
 
 
